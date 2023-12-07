@@ -26,5 +26,5 @@ jobs:
           app_location: "/app" # App source code path
           api_location: "api" # Api source code path - optional
           output_location: "dist" # Built app content directory - optional
-          deployment_environment: "develop"
+          deployment_environment: "staging"
           ###### End of Repository/Build Configurations ######
